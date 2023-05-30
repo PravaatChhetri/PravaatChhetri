@@ -47,7 +47,7 @@ I am Pravaat Chhetri
 <br/>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pravaatchhetri&show_icons=true&locale=en" alt="pravaatchhetri" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pravaatchhetri&" alt="pravaatchhetri" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pravaatchhetri&" alt="pravaatchhetri" /></p>
 
 
 
