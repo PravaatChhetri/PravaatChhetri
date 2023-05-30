@@ -40,7 +40,7 @@ I am Pravaat Chhetri
 </p>
 
 <h3 align="center">Support:</h3><br>
-<p aligh="center" width="100%"><a href="https://www.buymeacoffee.com/pravaatchhetri"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pravaatchhetri" /></a></p><br><br>
+<p aligh="center" width="100vw"><a href="https://www.buymeacoffee.com/pravaatchhetri"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pravaatchhetri" /></a></p><br><br>
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pravaatchhetri&show_icons=true&locale=en&layout=compact" alt="pravaatchhetri" /></p>
  <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pravaatchhetri" alt="pravaatchhetri" /></a> </p>
