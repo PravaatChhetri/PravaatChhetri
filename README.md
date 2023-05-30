@@ -39,14 +39,14 @@ I am Pravaat Chhetri
 <a href="https://instagram.com/@pravaatchhetri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@pravaatchhetri" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Support:</h3><br>
+<h3 align="left">Support:</h3><br>
 <p aligh="center"><a href="https://www.buymeacoffee.com/pravaatchhetri"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pravaatchhetri" /></a></p><br><br>
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pravaatchhetri&show_icons=true&locale=en&layout=compact" alt="pravaatchhetri" /></p>
  
  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pravaatchhetri&show_icons=true&locale=en" alt="pravaatchhetri" /></p>
  
- <div style="margin:100px auto; > <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)"><img src="https://github-profile-trophy.vercel.app/?username=pravaatchhetri" alt="pravaatchhetri" /></a> </div>
+ <p align="center"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)"><img src="https://github-profile-trophy.vercel.app/?username=pravaatchhetri" alt="pravaatchhetri" /></a> </p>
 <br/>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pravaatchhetri&" alt="pravaatchhetri" /></p>
