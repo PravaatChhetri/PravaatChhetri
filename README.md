@@ -44,9 +44,9 @@ I am Pravaat Chhetri
 <br/><br/>
 
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pravaatchhetri&show_icons=true&locale=en&layout=compact" alt="pravaatchhetri" /></p>
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pravaatchhetri" alt="pravaatchhetri" /></a> </p>
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pravaatchhetri" alt="pravaatchhetri" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pravaatchhetri&show_icons=true&locale=en" alt="pravaatchhetri" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pravaatchhetri&show_icons=true&locale=en" alt="pravaatchhetri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pravaatchhetri&" alt="pravaatchhetri" /></p>
 
