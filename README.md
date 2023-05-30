@@ -43,10 +43,10 @@ I am Pravaat Chhetri
 <p aligh="center"><a href="https://www.buymeacoffee.com/pravaatchhetri"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pravaatchhetri" /></a></p><br><br>
 
 <!--  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pravaatchhetri&show_icons=true&locale=en&layout=compact" alt="pravaatchhetri" /></p> -->
- 
+ <p>
  <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pravaatchhetri&show_icons=true&locale=en" alt="pravaatchhetri" /></p>
  <p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pravaatchhetri&" alt="pravaatchhetri" /></p>
-
+</p>
  <p align="center"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)"><img src="https://github-profile-trophy.vercel.app/?username=pravaatchhetri" alt="pravaatchhetri" /></a> </p>
 
 
