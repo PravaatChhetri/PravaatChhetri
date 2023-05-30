@@ -18,7 +18,7 @@ I am Pravaat Chhetri
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravaatchhetri&label=Profile%20views&color=0e75b6&style=flat" alt="pravaatchhetri" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pravaatchhetri" alt="pravaatchhetri" /></a> </p>
+
 
 - 🌱 I’m currently learning **NextJS**
 
@@ -44,6 +44,7 @@ I am Pravaat Chhetri
 
 <div style="display:flex; justify-content:center">
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pravaatchhetri&show_icons=true&locale=en&layout=compact" alt="pravaatchhetri" /></p>
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pravaatchhetri" alt="pravaatchhetri" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pravaatchhetri&show_icons=true&locale=en" alt="pravaatchhetri" /></p>
 
