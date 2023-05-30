@@ -40,11 +40,15 @@ I am Pravaat Chhetri
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/pravaatchhetri"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pravaatchhetri" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/pravaatchhetri"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pravaatchhetri" /></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pravaatchhetri&show_icons=true&locale=en&layout=compact" alt="pravaatchhetri" /></p>
+<div style="display:flex; justify-content:center">
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pravaatchhetri&show_icons=true&locale=en&layout=compact" alt="pravaatchhetri" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pravaatchhetri&show_icons=true&locale=en" alt="pravaatchhetri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pravaatchhetri&" alt="pravaatchhetri" /></p>
+
+ </div>
+
 
