@@ -20,7 +20,7 @@ I am Pravaat Chhetri
 
 
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **NestJS**
 
 - 👯 I’m looking to collaborate on **web development projects**
 
